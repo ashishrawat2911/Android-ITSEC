@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">I.T.S Engineering College</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="trouble_with_login">Trouble with login</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="annual_calender">Annual Calender</string>
+    <string name="ed">Ed</string>
+    <string name="announcements">Notice  Announcements</string>
+    <string name="explore_i_t_s">Explore I.T.S</string>
+    <string name="news_events">News Events</string>
+    <string name="social_media_wall">Social Media Wall</string>
+    <string name="time_table">Time Table</string>
+    <string name="syllabus">B.Tech/MBA Syllabus</string>
+    <string name="sports">Sports</string>
+    <string name="extra_curricular_activities">Extra Curricular Activities</string>
+    <string name="hostel_rules">Hostel Rules</string>
+    <string name="bus_route">Bus Route</string>
+    <string name="student_handbook">Student HBook</string>
+    <string name="hod">HOD</string>
+    <string name="mentor">Mentor</string>
+    <string name="orientation_schedule">Orientation Schedule</string>
+    <string name="director_desc">Dr. Vikas Singh is Executive Director - I.T.S The Education Group. He is entrusted with the responsibility to take the group to next level  get private university status in a time bound manner.
+He is a distinguished academician, institution builder  management thinker who likes to spread technical  skill education to make Indian youth not only employable but also job-provider.
+He has over twenty four years of experience; published one book; two cases; twenty five research papers;  guided several doctoral research works. 
+He is ME in Mechanical from DCE, Delhi  Ph.D. in Supply Chain Management. He is MBA  holds bachelor degrees in Engineering  Law.
+He started his career as Quality Engineer in Goenka Group in 1994  then joined academics in 1997. He has been a visiting faculty  PhD examiner at DTU  IMT.
+Dr. Singh is member of Academic Council  a member of Syllabus Development Committee of several universities. 
+Dr. Singh has been a member of Editorial Board  patron of several national journals of repute  many compendiums.
+Dr. Singh has been honoured with “Life Time Achievement Award for Education Excellence”  "Best Academician - Director in Punjab".
+He has distinction of being the only Asian member in Global Leadership Coaching Group of Businet - Global Business Education Network, UK. Dr. Singh has signed several MOUs  created opportunities of international experience  exposure for students through summer schools, semester exchange  internships. 
+He has been designing  executing campaigns for Bring  Marketing using various digital  traditional mediums.
+Dr. Singh is former Chairman of ISTD Greater Noida Chapter  Executive Council member of GMA. He is Life-Member of AIMA, ISTD, ISTE, IIIE  ISME.
+Dr. Singh has conducted a series of MDPs  FDPs. He has undertaken consultancy projects for various organizations. His liaising with industry has created opportunities for work experience  volunteering for students.
+</string>
+    <string name="empty_email_field">Email field is Empty</string>
+    <string name="empty_password_field">Password field is Empty</string>
+    <string name="empty_email_and_password">Email or Password field is Empty</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">roid Studio</string>
+    <string name="nav_header_subtitle">roid.studio@roid.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="boys_hostel_rules_lines">1.Residents of the hostel will have local guardians. The residents can stay with local guardians after obtaining written permission from the parents. Parents will issue an authorization letter in the name of the local guardian whose consent along with the photograph will be submitted to the Warden in the prescribed format.
+\n\n 2.	Residents will be allowed to stay with the Parents or local guardians twice a month after seeking permission from the Warden. The local guardian’s authority letter to send the resident is required to be submitted at least a day in advance to the Hostel Warden.
+\n\n 3.	Residents will be allowed to go home only in the event of minimum three consecutive holidays in the Institute.
+\n\n 4.	Hostel Residents will not be allowed to attend the Institute from their homes when regular classes are conducted in the Institute.
+\n\n 5.	Residents will be allowed to go out of station with their parents/with persons authorized by the parents or can go home alone after submitting letter, authorizing them to leave alone, by their parents during semester break or block closure of the Institute.
+\n\n 6.	Visitors are allowed to meet residents between 5:00 to 7:00 p.m. The permission of the Warden is required to meet the visitors. Residents must ensure that visitors enter their details viz, name, address, telephone no, cell no., vehicle no. etc. in visitors book available in the visitors room.
+\n\n 7.	Residents are allowed to go out of the hostel during weekly off from 8.30 am to 6.30 pm. Permission of Warden is required for leaving the hostel even on weekly off. Residents will have to make entry in register available with the warden.
+\n\n 8.	Hostel doors will be closed at 10:00 pm every day. Residents will not be allowed to enter or leave the hostel after 10:00 pm. In case a resident is required to remain out of the hostel after 8:00 pm, prior approval of Warden is required at least a day in advance. The attendance in the hostel will be taken by the Warden everyday at 8:30 p.m. Erring residents will be penalized as per the discretion of the Director/Warden.
+\n\n 9.	In any emergency if the residents are to go home beyond schedules mentioned above, special permission may be taken from Director through Warden after the resident submits the documentary evidence duly signed by the parents.
+\n\n 10.	Residents will submit the parents’ feedback form to the Warden immediately after returning to the hostel from their homes/local guardian’s homes.
+\n\n 11.	Use of Radios, Music player, heater is strictly prohibited.
+\n\n 12.	Residents will switch off fans  lights when they leave their rooms. In their absence if lights  fans are found to be on, they may be penalized.
+\n\n 13.	Rooms of the residents can be changed, if necessary, during the session.
+\n\n 14.	Cleanliness of the rooms will be the sole responsibility of the residents.
+\n\n 15.	It is normally expected that the residents will follow simplicity  will not wear any dress objected by the Warden  Director.
+\n\n 16.	Residents are advised not to keep valuable jewellery with them. The safety of cash  belongings of the residents is not the responsibility of the hostel.
+\n\n 17.	Use of alcohol, smoking/ chewing tobacco/ Guthka/ khaini  other contrab drugs are strictly prohibited.
+\n\n 18.	Parties  get together are not allowed in the Hostel.
+</string>
+    <string name="girls_hostel_rules">1.	Residents of the hostel will have local guardians. The residents can stay with local guardians after obtaining written permission from the parents. Parents will issue an authorization letter in the name of the local guardian whose consent along with the photograph will be submitted to the Warden in the prescribed format.
+\n\n2.	Residents will be allowed to stay with the Parents or local guardians twice a month after seeking permission from the Warden. The local guardian’s authority letter to send the resident is required to be submitted at least a day in advance to the Hostel Warden
+\n\n 3.	Residents will be allowed to go home only in the event of minimum three consecutive holidays in the Institute
+\n\n 4.	Hostel Residents will not be allowed to attend the Institute from their homes when regular classes are conducted in the Institute.
+\n\n 5.	Residents will be allowed to go out of station with their parents/with persons authorized by the parents or can go home alone after submitting letter, authorizing them to leave alone, by their parents during semester break or block closure of the Institute.
+\n\n 6.	Visitors are allowed to meet residents between 5:00 pm to 7:00 p.m. The permission of the Warden is required to meet the visitors. Residents must ensure that visitors enter their details viz, name, address, telephone no, cell no., vehicle no. etc. in visitors book available on the Hostel gate.
+\n\n 7.	Residents are allowed to go out of the hostel during weekly off from 9:00 am to 5:00pm. Permission of Warden is required for leaving the hostel even on weekly off. Residents will have to make entry in register available with the Warden.
+\n\n 8.	Hostel doors  will be closed at 6:00 pm every day. Residents will not be allowed to enter or leave the hostel after 7:00 pm. In case a resident is required to remain out of the hostel after 7:00 pm, prior approval of Warden is required at least a day in advance. The attendance in the hostel will be taken by the Warden everyday at 8:00 p.m. Erring residents will be penalized as per the discretion of the Director/Warden.
+\n\n 9. Residents can go out on Wednesday  Friday from5.00pm to 7.00 pm for necessary work related to the daily need or academics.
+\n\n 10.	In any emergency if the residents are to go home beyond schedules mentioned above special permission may be taken from Director through Warden after the resident submits the documentary evidence duly signed by the parents.
+\n\n 11.	Residents will submit the parents’ feedback form to the Warden immediately after returning to the hostel from their homes/local guardian’s homes.
+\n\n 12.	Use of Radios, Music player, heater is strictly prohibited.
+\n\n 13.	Use of alcohol, smoking/ chewing tobacco/ Guthka/ khaini  other contrab drugs are strictly prohibited.
+\n\n 14.	Parties  get together are not allowed in the Hostel.
+\n\n 15.	Residents will switch off fans  lights when they leave their rooms. In their absence if lights  fans are found to be on, they may be penalized.
+\n\n 16.	Rooms of the residents can be changed, if necessary, during the session.
+\n\n 17.	Cleanliness of the rooms will be the sole responsibility of the residents.
+\n\n 18.	It is normally expected that the residents will follow simplicity  will not wear any dress objected by the Warden  Director.
+\n\n 19.	Residents are advised not to keep valuable jewellery with them. The safety of cash  belongings of the residents is not the responsibility of the hostel. 
+\n\n 20.	Cooking is not allowed in the rooms of the hostel.
+\n\n 21.	Expenditure on ailments, illness etc. will be borne by the residents in case of continuous sickness or eruption of contagious disease residents will be taken home by the parent/local guardians. Hostel has arrangement for first aid-treatment only.
+\n\n 22.	Hostel admission can be cancelled if the authorities are convinced that the resident suffers from a chronic disease or serious illness.
+\n\n 23.	It is obligatory for the residents of the hostel to attend the classes in the institute. Absence, without permission, from the classes will be considered a serious violation  the hostel admission can be cancelled without any notice.
+\n\n 24.	Visitors of the residents are not allowed to stay in the hostel.
+\n\n 25.	In order to ensure the security of the Hostel Residents, identity cards will be issued to all the residents. All the residents are required to carry the identity card with them at all the times. The residents will not be allowed to enter the Hostel under any circumstances without showing the identity card at the gate.
+\n\n 26.	The following committees are constituted to manage the hostel  to look into the day to day problems of hostel residents,
+	\n(a)	 Games and Cultural Programmes
+	\n(b)	 General Welfare and Discipline
+	\n©	Mess
+	\n(d)	General Welfare
+	\n\nThese committees will work under the overall supervision of the Warden  will take direction from the Director from time to time.
+\n\n 27.	All the residents will follow the rules strictly  obey the orders of the Warden/Director.
+\n\n 28	The Director has full powers to modify or change hostel rules.
+\n\n 29.	Resident violating any of the above rules is liable to be terminated from the hostel premises without any show-cause notice or prior intimation. The decision of the Institute authorities will be final.
+\n\n 30. Writing any slogan or comment on the walls/ furniture/ doors or in the corridor area is strictly prohibited  the defaulters will be penalized.
+\n\n 31. Any damage to the hostel property like beds/ Elmira/ study table/ window glass/ window  doors etc will be taken seriously  damage will be recovered from the residents of the hostel room to make good the loss suffered by the Institute.
+</string>
+    <string name="boys">Boys</string>
+    <string name="girls">Girls</string>
+    <string name="press_again_to_exit">Press again to exit</string>
+    <string name="its_desc">One of the premier Institutions in the field of Technical  Management Education, was established in 2006. \n\nThe institute is located at Knowledge Park III, Greater Noida in the National Capital region.\n\nThe institute is approved by All India Council for Technical Education, Ministry of HRD, Government of India  is affiliated to the Dr. A.P.J. Abdul Kalam Technical University, Lucknow. \n\nIn a short span of time the institute has grown from strength to strength  is counted among the best engineering colleges in Northern India.</string>
+    <string name="guest_login">Guest Login</string>
+
+</resources>

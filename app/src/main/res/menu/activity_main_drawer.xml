@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nac_explore"
+            android:icon="@drawable/ic_explore_black_24dp"
+            android:title="Explore" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_info_outline_black_24dp"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_developer"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="Developer" />
+
+    </group>
+    <item android:title="Connect">
+        <menu>
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/facebook_icon"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/nav_instagram"
+                android:icon="@drawable/instagram_icon"
+                android:title="Instagram" />
+            <item
+                android:id="@+id/nav_twitter"
+                android:icon="@drawable/twitter_icon"
+                android:title="Twitter" />
+            <item
+                android:id="@+id/nav_youtube"
+                android:icon="@drawable/youtube_icon"
+                android:title="Youtube" />
+
+        </menu>
+    </item>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/ic_rate_black_24dp"
+                android:title="Rate Us" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+
+        </menu>
+    </item>
+
+    <item android:title="Logout">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_logout_black_24dp"
+                android:title="Logout" />
+
+        </menu>
+    </item>
+
+
+</menu>
