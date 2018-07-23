@@ -20,18 +20,18 @@
     <string name="hod">HOD</string>
     <string name="mentor">Mentor</string>
     <string name="orientation_schedule">Orientation Schedule</string>
-    <string name="director_desc">Dr. Vikas Singh is Executive Director - I.T.S The Education Group. He is entrusted with the responsibility to take the group to next level  get private university status in a time bound manner.
-He is a distinguished academician, institution builder  management thinker who likes to spread technical  skill education to make Indian youth not only employable but also job-provider.
-He has over twenty four years of experience; published one book; two cases; twenty five research papers;  guided several doctoral research works. 
+    <string name="director_desc">Dr. Vikas Singh is Executive Director - I.T.S The Education Group. \nHe is entrusted with the responsibility to take the group to next level  get private university status in a time bound manner.\n
+He is a distinguished academician, institution builder  management thinker who likes to spread technical  skill education to make Indian youth not only employable but also job-provider.\n
+\nHe has over twenty four years of experience; \npublished one book; two cases; \ntwenty five research papers;  \nguided several doctoral research works.\n
 He is ME in Mechanical from DCE, Delhi  Ph.D. in Supply Chain Management. He is MBA  holds bachelor degrees in Engineering  Law.
 He started his career as Quality Engineer in Goenka Group in 1994  then joined academics in 1997. He has been a visiting faculty  PhD examiner at DTU  IMT.
-Dr. Singh is member of Academic Council  a member of Syllabus Development Committee of several universities. 
-Dr. Singh has been a member of Editorial Board  patron of several national journals of repute  many compendiums.
-Dr. Singh has been honoured with “Life Time Achievement Award for Education Excellence”  "Best Academician - Director in Punjab".
-He has distinction of being the only Asian member in Global Leadership Coaching Group of Businet - Global Business Education Network, UK. Dr. Singh has signed several MOUs  created opportunities of international experience  exposure for students through summer schools, semester exchange  internships. 
-He has been designing  executing campaigns for Bring  Marketing using various digital  traditional mediums.
-Dr. Singh is former Chairman of ISTD Greater Noida Chapter  Executive Council member of GMA. He is Life-Member of AIMA, ISTD, ISTE, IIIE  ISME.
-Dr. Singh has conducted a series of MDPs  FDPs. He has undertaken consultancy projects for various organizations. His liaising with industry has created opportunities for work experience  volunteering for students.
+\nDr. Singh is member of Academic Council  a member of Syllabus Development Committee of several universities.
+\nDr. Singh has been a member of Editorial Board  patron of several national journals of repute  many compendiums.
+\nDr. Singh has been honoured with “Life Time Achievement Award for Education Excellence”  "Best Academician - Director in Punjab".
+\nHe has distinction of being the only Asian member in Global Leadership Coaching Group of Businet - Global Business Education Network, UK. Dr. Singh has signed several MOUs  created opportunities of international experience  exposure for students through summer schools, semester exchange  internships.
+\nHe has been designing  executing campaigns for Bring  Marketing using various digital  traditional mediums.
+\nDr. Singh is former Chairman of ISTD Greater Noida Chapter  Executive Council member of GMA. He is Life-Member of AIMA, ISTD, ISTE, IIIE  ISME.
+\nDr. Singh has conducted a series of MDPs  FDPs. He has undertaken consultancy projects for various organizations. His liaising with industry has created opportunities for work experience  volunteering for students.
 </string>
     <string name="empty_email_field">Email field is Empty</string>
     <string name="empty_password_field">Password field is Empty</string>
@@ -111,5 +111,7 @@ Dr. Singh has conducted a series of MDPs  FDPs. He has undertaken consultancy pr
     <string name="press_again_to_exit">Press again to exit</string>
     <string name="its_desc">One of the premier Institutions in the field of Technical  Management Education, was established in 2006. \n\nThe institute is located at Knowledge Park III, Greater Noida in the National Capital region.\n\nThe institute is approved by All India Council for Technical Education, Ministry of HRD, Government of India  is affiliated to the Dr. A.P.J. Abdul Kalam Technical University, Lucknow. \n\nIn a short span of time the institute has grown from strength to strength  is counted among the best engineering colleges in Northern India.</string>
     <string name="guest_login">Guest Login</string>
+    <string name="route_1">Route 1</string>
+    <string name="route_2">Route 2</string>
 
 </resources>

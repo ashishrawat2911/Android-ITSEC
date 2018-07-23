@@ -5,11 +5,9 @@ import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.v7.app.AppCompatActivity;
 
-import com.bumptech.glide.Glide;
 import com.jsibbold.zoomage.ZoomageView;
 
 import in.edu.itsecgn.itsengineeringcollege.R;
-import in.edu.itsecgn.itsengineeringcollege.constants.MyConstants;
 
 public class TimeTableActivity extends AppCompatActivity {
     ZoomageView timeTable;
@@ -21,7 +19,7 @@ public class TimeTableActivity extends AppCompatActivity {
         setContentView(R.layout.activity_time_table);
         setTitle("TimeTable");
         sharedPreferences = PreferenceManager.getDefaultSharedPreferences(TimeTableActivity.this);
-        timeTable = findViewById(R.id.myZoomTimeTableView);
+      /*  timeTable = findViewById(R.id.myZoomTimeTableView);
         String string = sharedPreferences.getString(MyConstants.SECTION, "A");
         if (string.equals("A") || string.equals("B") || string.equals("C")) {
             Glide.with(this)
@@ -34,5 +32,6 @@ public class TimeTableActivity extends AppCompatActivity {
                     .thumbnail(0.5f)
                     .into(timeTable);
         }
+    }*/
     }
 }

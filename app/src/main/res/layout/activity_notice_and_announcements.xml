@@ -11,8 +11,8 @@
         android:layout_margin="40dp"
         android:background="@drawable/text_back"
         android:gravity="center"
-        android:textStyle="bold"
+
         android:textSize="30sp"
         android:textColor="@color/black"
-        android:text="No Notice for 1st year students" />
+        android:text="No new notice" />
 </android.support.constraint.ConstraintLayout>

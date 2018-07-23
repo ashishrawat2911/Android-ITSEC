@@ -11,8 +11,7 @@
         android:layout_margin="40dp"
         android:background="@drawable/text_back"
         android:gravity="center"
-        android:textStyle="bold"
-        android:textSize="30sp"
+        android:text="All the necessary details will be provided on Day of orientation "
         android:textColor="@color/black"
-        android:text="Details will be provided on Day 1" />
+        android:textSize="30sp" />
 </android.support.constraint.ConstraintLayout>

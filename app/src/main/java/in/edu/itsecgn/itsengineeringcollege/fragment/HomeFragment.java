@@ -1,4 +1,4 @@
-package in.edu.itsecgn.itsengineeringcollege.adaptor;
+package in.edu.itsecgn.itsengineeringcollege.fragment;
 
 
 import android.os.Bundle;
@@ -13,6 +13,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import in.edu.itsecgn.itsengineeringcollege.R;
+import in.edu.itsecgn.itsengineeringcollege.adaptor.MainListAdaptor;
+import in.edu.itsecgn.itsengineeringcollege.model.MainList;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -21,7 +23,7 @@ public class HomeFragment extends Fragment {
 
     List<MainList> personList, studentMaterialList, extraList, newsEventsList;
     private RecyclerView personRecyclerView, studentRecyclerView, extraRecyclerView, newsRecyclerView;
-    MainListAdaptor  personRecyclerViewAdaptor, studentRecyclerViewAdaptor, extraRecyclerViewAdaptor, newsRecyclerAdaptor;
+    MainListAdaptor personRecyclerViewAdaptor, studentRecyclerViewAdaptor, extraRecyclerViewAdaptor, newsRecyclerAdaptor;
 
     public HomeFragment() {
         // Required empty public constructor
@@ -33,6 +35,8 @@ public class HomeFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_home, container, false);
+        getActivity().setTitle("I.T.S Engineering College");
+
         personRecyclerView = view.findViewById(R.id.personRecyclerView);
         studentRecyclerView = view.findViewById(R.id.studentsRecyclerView);
         extraRecyclerView = view.findViewById(R.id.extraRecyclerView);

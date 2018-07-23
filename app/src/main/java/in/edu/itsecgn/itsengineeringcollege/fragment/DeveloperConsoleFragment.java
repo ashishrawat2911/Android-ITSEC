@@ -42,6 +42,8 @@ public class DeveloperConsoleFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_developer_console, container, false);
+        getActivity().setTitle("Developer");
+
         progressBar = view.findViewById(R.id.progressBarDeveloper);
         facebook = view.findViewById(R.id.ashishFacebook);
         instagram = view.findViewById(R.id.ashishInstagram);

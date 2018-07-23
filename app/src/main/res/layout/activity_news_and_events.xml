@@ -11,8 +11,7 @@
         android:layout_margin="40dp"
         android:background="@drawable/text_back"
         android:gravity="center"
-        android:textStyle="bold"
         android:textSize="30sp"
         android:textColor="@color/black"
-        android:text="No News for 1st year students" />
+        android:text="No lates News for students" />
 </android.support.constraint.ConstraintLayout>

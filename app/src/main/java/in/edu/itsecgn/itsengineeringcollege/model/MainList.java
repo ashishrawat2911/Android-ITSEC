@@ -1,6 +1,6 @@
-package in.edu.itsecgn.itsengineeringcollege.adaptor;
+package in.edu.itsecgn.itsengineeringcollege.model;
 
-class MainList {
+public class MainList {
 
 
 

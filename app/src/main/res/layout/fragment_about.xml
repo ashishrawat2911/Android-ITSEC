@@ -20,22 +20,22 @@
             android:id="@+id/about_us_ImageView"
             android:layout_width="match_parent"
             android:layout_height="173dp"
-            android:layout_marginLeft="20dp"
-            android:layout_marginRight="20dp" />
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
 
         <TextView
             android:id="@+id/itsdesc"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="20dp"
-            android:layout_marginRight="20dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
             android:layout_marginTop="10dp"
-            android:fontFamily="serif-monospace"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text=""
             android:textAlignment="inherit"
             android:textColor="#000"
-            android:textSize="15sp"
-            android:textStyle="bold" />
-
+            android:textSize="15sp"/>
         <Button
             android:id="@+id/about_visit"
             android:layout_width="wrap_content"

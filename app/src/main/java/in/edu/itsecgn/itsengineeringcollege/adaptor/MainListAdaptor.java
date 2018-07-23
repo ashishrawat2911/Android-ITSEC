@@ -12,7 +12,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
@@ -39,6 +38,7 @@ import in.edu.itsecgn.itsengineeringcollege.activities.StudentHandbook;
 import in.edu.itsecgn.itsengineeringcollege.activities.SyllabusActivity;
 import in.edu.itsecgn.itsengineeringcollege.activities.TimeTableActivity;
 import in.edu.itsecgn.itsengineeringcollege.constants.MyConstants;
+import in.edu.itsecgn.itsengineeringcollege.model.MainList;
 
 public class MainListAdaptor extends RecyclerView.Adapter<MainListAdaptor.MyViewHolder> {
 

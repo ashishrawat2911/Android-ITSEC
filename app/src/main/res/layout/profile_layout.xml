@@ -29,7 +29,6 @@
         android:layout_gravity="center"
         android:layout_marginBottom="10dp"
         android:layout_marginTop="10dp"
-        android:fontFamily="serif-monospace"
         android:gravity="center"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"

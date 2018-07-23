@@ -44,6 +44,8 @@ public class AboutFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         final View view = inflater.inflate(R.layout.fragment_about, container, false);
+        getActivity().setTitle("About I.T.S");
+
         progressBar = view.findViewById(R.id.aboutProgressBar);
         imageView = view.findViewById(R.id.about_us_ImageView);
         desc = view.findViewById(R.id.itsdesc);

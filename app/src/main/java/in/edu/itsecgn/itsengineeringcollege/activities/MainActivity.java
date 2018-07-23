@@ -18,7 +18,7 @@ import android.view.MenuItem;
 import android.widget.Toast;
 
 import in.edu.itsecgn.itsengineeringcollege.R;
-import in.edu.itsecgn.itsengineeringcollege.adaptor.HomeFragment;
+import in.edu.itsecgn.itsengineeringcollege.fragment.HomeFragment;
 import in.edu.itsecgn.itsengineeringcollege.constants.MyConstants;
 import in.edu.itsecgn.itsengineeringcollege.fragment.AboutFragment;
 import in.edu.itsecgn.itsengineeringcollege.fragment.DeveloperConsoleFragment;
